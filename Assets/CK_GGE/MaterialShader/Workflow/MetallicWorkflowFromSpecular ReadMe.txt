@@ -1,0 +1,1 @@
+Specular workflow용으로 제작된 텍스처를 Metallic workflow용으로 가공하는 셰이더
